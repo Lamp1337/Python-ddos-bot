@@ -1,4 +1,5 @@
 # Python-ddos-bot
+Coded by Lamp#1442
 A discord bot can stress ip addresses with python tool.
 Warning! DOS or DDOS is illegal, i shared for educational purposes only, use for your own purposes.
 
@@ -9,3 +10,6 @@ Warning! DOS or DDOS is illegal, i shared for educational purposes only, use for
 
 # Note
 this tool is for public. dont sell because this tool is FREE 100%
+
+# Credit
+Credit to Leeon123 : https://github.com/leeon123
